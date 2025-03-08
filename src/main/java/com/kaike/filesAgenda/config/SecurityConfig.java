@@ -1,4 +1,4 @@
-package com.kaike.filesAgenda.ssl;
+package com.kaike.filesAgenda.config;
 
 import java.security.interfaces.RSAPrivateKey;
 import java.security.interfaces.RSAPublicKey;
